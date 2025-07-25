@@ -1,0 +1,29 @@
+Investment Advice Guide for LangChain Agent:
+
+Risk Appetite Rules:
+
+High Risk: 70% Stocks, 20% Mutual Funds, 10% Fixed Deposit
+
+Medium Risk: 40% Stocks, 40% Mutual Funds, 20% Fixed Deposit
+
+Low Risk: 10% Stocks, 40% Mutual Funds, 50% Fixed Deposit
+
+Definitions:
+
+Risk Appetite refers to how much volatility the investor can tolerate.
+
+Financial Goal examples: Retirement, Buying a House, Education.
+
+Market asset returns (expected):
+
+Stocks: ~12% CAGR
+
+Mutual Funds: ~8–10% CAGR
+
+Fixed Deposits: ~6–7% per annum
+
+What-If Examples:
+
+Increasing investment horizon increases the compounding effect.
+
+Early retirement needs more aggressive saving/investment.

@@ -1,0 +1,14 @@
+flask
+flask-cors
+langchain
+openai
+faiss-cpu
+python-dotenv
+langchain-community
+langchain-experimental
+tiktoken
+langchain-groq
+langchain-huggingface 
+sentence-transformers
+torch
+jq

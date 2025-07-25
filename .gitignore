@@ -1,0 +1,30 @@
+# Node.js dependencies
+/backend/node_modules
+/frontend/node_modules
+
+# Python virtual environment
+/backend-ai/venv
+
+# Environment variables - DO NOT COMMIT THESE
+# They contain secret keys!
+.env
+/backend/.env
+/backend-ai/.env
+/frontend/.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/frontend/dist
+/frontend/.vite
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/

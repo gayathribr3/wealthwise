@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Other CSS rules */
+.active hr {
+  display: block;
+}
+
+@theme {
+    --font-outfit: "Outfit", "sans-serif";
+}
+
+/* so that when we click on home,about etc in the navbar, we get the hr in blue colour only below the option we clicked */
+.active hr {
+    @apply block
+}
+
+::-webkit-scrollbar {
+    @apply hidden
+}
+
+@media (max-width:740px) {
+    .active p {
+        @apply text-white 
+    } }

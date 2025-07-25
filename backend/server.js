@@ -32,7 +32,3 @@ app.get('/',(req,res)=>
 
 app.listen(port,()=>console.log("Server Started",port))
 
-//rYV0WwJOH3euPFBT, gayathritara333
-//mongodb+srv://gayathritara333:rYV0WwJOH3euPFBT@cluster0.mcflko6.mongodb.net/?
-
-//mongodb+srv://gayathritara333:rYV0WwJOH3euPFBT@cluster0.mcflko6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
